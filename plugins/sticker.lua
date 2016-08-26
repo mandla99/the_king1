@@ -1,12 +1,4 @@
---[[ 
-▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
-▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY Th3_BOOS                       ▀▄ ▄▀ 
-▀▄ ▄▀     BY Th3_BOOS (@Th3_BOOS)          ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY Th3_BOOS              ▀▄ ▄▀   
-▀▄ ▄▀        sticker  :  تحويل ملصق        ▀▄ ▄▀ 
-▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
---]]
+
 local function tosticker(msg, success, result)
   local receiver = get_receiver(msg)
   if success then
