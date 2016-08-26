@@ -88,10 +88,9 @@ __________________
 ♠️ - Dev - @abo_shosho98
 ♠️ - group bot- @aboaloshbot
 
-اطلب البوت من كروب الدعم ://
+ااطلب البوت من كروب الدعم 
 
-
-https://telegram.me/joinchat/CgJAOkDLhldXGB60lzf2yw
+https://telegram.me/joinchat/CgJAOj8AzQADEPGYx-FbQA
 
 ]]
 end
