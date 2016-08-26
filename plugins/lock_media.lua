@@ -28,7 +28,7 @@ end
 local function run(msg, matches) 
 local jalal = msg['id'] 
 
-    if matches[1] == 'كتم الوسائط'  and is_momod(msg) then 
+    if matches[1] == 'كتم الوسائط''  and is_momod(msg) then 
                     local oscar = 'mate:'..msg.to.id 
                     redis:set(oscar, true) 
                     local oscar1 = ' تم كتم جميع الوسائط🔕' 
