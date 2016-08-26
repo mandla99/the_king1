@@ -1,12 +1,4 @@
---[[ 
-▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
-▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY abo_shosho98                  ▀▄ ▄▀ 
-▀▄ ▄▀     BY Th3_BOOS (@abo_shosho98)      ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY abo_shosho98          ▀▄ ▄▀   
-▀▄ ▄▀     ADD SUDO  : اضافه مطور           ▀▄ ▄▀ 
-▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
---]]
+
 do
 
 local function callback(extra, success, result)
