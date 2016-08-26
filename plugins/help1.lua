@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY Th3_BOOS                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY Th3_BOOS (@Th3_BOOS)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY Th3_BOOS          ▀▄ ▄▀   
+▀▄ ▄▀    BY abo_shosho98                   ▀▄ ▄▀ 
+▀▄ ▄▀     BY Th3_BOOS (@abo_shosho98)    ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY abo_shosho98         ▀▄ ▄▀   
 ▀▄ ▄▀          help1  : مساعدة             ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -85,9 +85,13 @@ return [[🔰💠 - اوامر الرفع في الكروب💠♨️
 ️🔰-انستا : + يوزر : يستعمل لجلب معلومات حساب الانستا مع الصور
  :للتواصل مع المطور
 __________________
-♠️ - Dev - @Th3_BOOS
-♠️ - channel - @Dev_Th3_BOOS
-♠️ - group bot- @Th3_BOOS_BOT
+♠️ - Dev - @abo_shosho98
+♠️ - group bot- @aboaloshbot
+
+اطلب البوت من كروب الدعم ://
+
+
+https://telegram.me/joinchat/CgJAOkDLhldXGB60lzf2yw
 
 ]]
 end
