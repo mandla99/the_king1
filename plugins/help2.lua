@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY Th3_BOOS                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY Th3_BOOS (@Th3_BOOS)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY Th3_BOOS           ▀▄ ▄▀   
+▀▄ ▄▀    BY abo_shosho98                   ▀▄ ▄▀ 
+▀▄ ▄▀     BY Th3_BOOS (@abo_shosho98)    ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY abo_shosho98          ▀▄ ▄▀   
 ▀▄ ▄▀          help2  : مساعدة2            ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -32,6 +32,13 @@ function run(msg, matches)
 🔰زخرف+ النص: لزخرفه بالنكليزيه
 🔰 ملصق: بالرد للصوره المراد تحويلها ملصق
 ☯-لرؤيه قائمه الاوامر الرئيسيه :اكتب مساعدة♻️
+
+dev:abo_shosho98
+
+اطلب البوت من كروب الدعم ://
+
+
+https://telegram.me/joinchat/CgJAOkDLhldXGB60lzf2yw
 
  ]]
 
