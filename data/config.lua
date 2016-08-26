@@ -44,6 +44,7 @@ do local _ = {
     "sof",
     "sof2",
     "ar-supergroup",
+    "dd",
     
     
     
